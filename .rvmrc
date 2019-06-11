@@ -1,1 +1,1 @@
-rvm ruby-1.9.2-p290@consistent_company --create
+rvm ruby-2.5.5@consistent_company --create
